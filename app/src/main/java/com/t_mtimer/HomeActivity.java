@@ -30,9 +30,6 @@ public class HomeActivity extends Activity {
                 Intent i = new Intent(activity, MeditationActivity.class);
                 startActivity(i);
 
-
-//                Call function
-
             }
         });
 
