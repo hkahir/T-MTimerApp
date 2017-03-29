@@ -22,7 +22,7 @@ public class HomeActivity extends Activity {
         activity = HomeActivity.this;
 
 
-        // add comment 11111
+        // add comment 11111222
         btnStart = (Button) findViewById(R.id.btn_start);
         btnStart.length();
         btnStart.setOnClickListener(new View.OnClickListener() {
