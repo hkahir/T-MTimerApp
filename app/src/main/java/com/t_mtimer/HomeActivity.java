@@ -21,6 +21,8 @@ public class HomeActivity extends Activity {
         setContentView(R.layout.activity_home);
         activity = HomeActivity.this;
 
+
+        // add comment 11111
         btnStart = (Button) findViewById(R.id.btn_start);
 
         btnStart.setOnClickListener(new View.OnClickListener() {
