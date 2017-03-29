@@ -24,7 +24,7 @@ public class HomeActivity extends Activity {
 
         // add comment 11111
         btnStart = (Button) findViewById(R.id.btn_start);
-
+        btnStart.length();
         btnStart.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
