@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">T-M Timer</string>
+
+    <string name="ok">OK</string>
+    <string name="network_alert">We\'re having trouble reaching the network. Check your connection or try again in a few minutes.</string>
+    <string name="please_wait">Please wait</string>
+    <string name="device_key">ba167ab7f60b864976a072d53e3c41e2</string>
+    <string name="back_exit">Press back again to exit</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+
+
+    <string name="catch_msg">Something went wrong. Please try again.</string>
+
+    <!-- Home Screen -->
+    <string name="WhyTM">WHY T-M ?</string>
+     <string name="HomeNote"><i>Note</i> : It\'s important to note that T-M can only be done if one has been
+        instructed by a certified teacher on the technique. To find an instructor in your area, go to
+         <font color="aqua"><a href="TM.org"><b><i>TM.org</i></b></a></font>
+    </string>
+    <string name="lString1">Greater  inner calm throughout the day</string>
+    <string name="lString2">Reduced cortisol (the \"stress hormone\")</string>
+    <string name="lString3">Normalized blood pressure</string>
+    <string name="lString4">Reduced insomnia</string>
+    <string name="lString5">Lower risk of heart attack and stroke</string>
+    <string name="lString6">Reduced anxiety and depression</string>
+    <string name="lString7">Improved brain function and memory</string>
+
+</resources>

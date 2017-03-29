@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0d4a7f</color>
+    <color name="colorPrimaryDark">#042745</color>
+    <color name="colorAccent">#042745</color>
+
+    <color name="menuColor">#7c8084</color>
+    <color name="side_menu_header_color">#042745</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="btn_bg_color">#0D69A5</color>
+    <color name="btn_bg_color_selected">#0d4a7f</color>
+    <color name="cate_text_color">#1D1D1D</color>
+    <color name="category_bg_color">#EDEDED</color>
+    <color name="distance_btn_selected">#0F1539</color>
+    <color name="divider">#cccccc</color>
+    <color name="red_divider">#88cdfa</color>
+    <color name="change_pass_text_color">#717171</color>
+    <color name="change_pass_bg_color">#F3F3F3</color>
+    <color name="change_pass_btn_color">#349200</color>
+    <color name="change_pass_btn__selected_color">#2b7601</color>
+    <color name="add_business_color">#929292</color>
+    <color name="blue_box">#0F1537</color>
+    <color name="header_bg_bolor">#176FBD</color>
+
+    <color name="edt_txt_color">#595959</color>
+    <color name="edt_unborder_color">#e2e2e2</color>
+    <color name="edt_border_color">#4E012F</color>
+    <color name="other_details_bg">#B190A4</color>
+    <color name="search_title_color">#2e2e2e</color>
+    <color name="search_details_color">#6b6b6b</color>
+    <color name="search_price_color">#4E012F</color>
+    <color name="part_detail_view_color">#E2E2E2</color>
+    <color name="other_detail_color">#F1F5F8</color>
+    <color name="green">#2BBB61</color>
+    <color name="green_selected">#26AF5A</color>
+    <color name="tab_selected">#aeadad</color>
+    <color name="tab_unselected">#cecdcd</color>
+    <color name="grey">#3d3c3c</color>
+    <color name="Olive">#808000</color>
+    <color name="LightSteelBlue">#B0E0E6</color>
+
+    <color name="White">#FFFFFF</color>
+    <color name="White_trans">#26FFFFFF</color>
+    <color name="Black_trans">#60000000</color>
+    <color name="Black">#000000</color>
+    <color name="booked">#D3E5FF</color>
+    <color name="locked">#FFFFE3</color>
+
+</resources>
